@@ -17,7 +17,7 @@
         {
             $this->load->view('plantillas/header');
             $this->load->view('fabricante/view_new_maker');
-            $this->load->view('plantillas/footer');
+           
         }
         public function adicionar()
         {
